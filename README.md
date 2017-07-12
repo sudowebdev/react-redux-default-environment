@@ -6,6 +6,11 @@
 
 ## Getting Started
 
+Run the following command in the terminal:
+```
+> git clone https://github.com/sudowebdev/react-redux-default-environment.git
+```
+
 To get started, first install all the necessary dependencies.
 ```
 > npm install
